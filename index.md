@@ -123,18 +123,15 @@ var shill_messages = [
 
 📊: dexscreener.com/ethereum/0xD4d4634406Aa2dF9B747b3d27AB2EFaD6d418f38
 💻: gundaminu.xyz
-🚀: t.me/gundaminutoken
-  `,
+🚀: t.me/gundaminutoken`,
   `Don't forget to spread the word about 🤖 $GUNDAM 🤖 to everyone you know, just launched, the community is rising fast & will be overtaking the anime space soon! #GUNDAM
 
 📊: dexscreener.com/ethereum/0xD4d4634406Aa2dF9B747b3d27AB2EFaD6d418f38
 💻: gundaminu.xyz
-🚀: t.me/gundaminutoken
-  `,
+🚀: t.me/gundaminutoken`,
    `#Gundam Inu is here to start the anime revolution within the crypto space & bring an end to low quality degens. Dapps, games, staking all coming soon. Join the movement now.
 💻: gundaminu.xyz
-🚀: t.me/gundaminutoken
-   `,
+🚀: t.me/gundaminutoken`,
  `@` + influencers[Math.floor(Math.random()*influencers.length)] + ` bro, you know when you see something & you know it's going to be EPIC! YOU GOTTA SHARE IT WITH THE WORLD! I see $GUNDAM, and I get it! They're on the way to the moon & beyond. 
 t.me/gundaminutoken 
 #GUNDAM`,
