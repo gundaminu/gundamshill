@@ -49,6 +49,7 @@
       <div class="container">
         <a id="a-title" href="/gundamshill/">
           <h1>GUNDAM SHILL</h1>
+          <img src="https://static.wixstatic.com/media/9634d3_e7cb6048cba741d7ae2206750f55447f~mv2.png/v1/crop/x_379,y_133,w_415,h_440/fill/w_172,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/imageedit_105_2995468053.png">
         </a>
         <h2></h2>
 
@@ -112,27 +113,29 @@ function randomInfluencer(arr, num) {
 
 window.onload = function() {
 
-var hashtags = ['GUNDAM', '1000xgem', 'ETH', 'x100coin', 'CryptocurrencyNews']
+var hashtags = ['1000xgem', 'ETH', 'x100coin', 'CryptocurrencyNews']
 
 var influencers = ['jakegagain','adameshelton','chinapumpcn','z_Humphries','altcoindailyio','altcryptogems','altcoinpsycho','chiqshoes','ipdaman','icedknife','cryptojourneyrs','elonmusk','austinashelton','cryptosuperape','brenthewolf','cz_binance','justinsontron','cryptowizardd','watcherguru','jonerlichman','vitalikbuterin','satoshilite','apompliano','erikvoorhees','Akon','wale','delcrypto','ericcryptoman','fomonacci007','realdogen','cryptoskullx','ismeshcrypto','cryptobrass','shitc0in','chirocrypto','falldamagecrypt','crypto_bitlord7','cryptotigercall']
 
 
 var shill_messages = [
    "Ser, have you seen 🤖$GUNDAM🤖? It just launched with a fire whitepaper & epic game development with casino cooming soon. www.gundaminu.xyz",
-  `@Gundaminutoken $GUNDAM is here to start the anime revolution and over the #crypto space with a fire casino game. This is going to be the next big anime token.
+  `@Gundaminutoken $GUNDAM is here to start the anime revolution and over the #crypto space with a fire casino game. This is going to be the next big anime token. #GUNDAM
 
 📊: dexscreener.com/ethereum/0xD4d4634406Aa2dF9B747b3d27AB2EFaD6d418f38
 💻: gundaminu.xyz
 🚀: t.me/gundaminutoken
   `,
-  `Don't forget to spread the word about 🤖 $GUNDAM 🤖 to everyone you know, just launched, the community is rising fast & will be overtaking the anime space soon!
+  `Don't forget to spread the word about 🤖 $GUNDAM 🤖 to everyone you know, just launched, the community is rising fast & will be overtaking the anime space soon! #GUNDAM
 
 📊: dexscreener.com/ethereum/0xD4d4634406Aa2dF9B747b3d27AB2EFaD6d418f38
 💻: gundaminu.xyz
 🚀: t.me/gundaminutoken
   `,
 
- "@" + influencers[Math.floor(Math.random()*influencers.length)] + " bro, you know when you see something & you know it's going to be EPIC! YOU GOTTA SHARE IT WITH THE WORLD! I see $GUNDAM, and I get it! They're on the way to the moon & beyond. t.me/gundaminutoken"
+ "@" + influencers[Math.floor(Math.random()*influencers.length)] + " bro, you know when you see something & you know it's going to be EPIC! YOU GOTTA SHARE IT WITH THE WORLD! I see $GUNDAM, and I get it! They're on the way to the moon & beyond. 
+t.me/gundaminutoken 
+#GUNDAM"
   ]
 
 
