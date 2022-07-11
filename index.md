@@ -119,15 +119,18 @@ var influencers = ['jakegagain','adameshelton','chinapumpcn','z_Humphries','altc
 
 
 var shill_messages = [
-   "Ser, have you seen $GUNDAM? It just launched with a fire whitepaper & epic game development with casino cooming soon. www.gundaminu.xyz",
+   "Ser, have you seen 🤖$GUNDAM🤖? It just launched with a fire whitepaper & epic game development with casino cooming soon. www.gundaminu.xyz",
   `@Gundaminutoken $GUNDAM is here to start the anime revolution and over the #crypto space with a fire casino game. This is going to be the next big anime token.
 
-📊Chart: dexscreener.com/ethereum/0xD4d4634406Aa2dF9B747b3d27AB2EFaD6d418f38
-🌐TG: t.me/gundaminutoken
+📊: dexscreener.com/ethereum/0xD4d4634406Aa2dF9B747b3d27AB2EFaD6d418f38
+💻: gundaminu.xyz
+🚀: t.me/gundaminutoken
   `,
-  `Don't forget to spread the word about $GUNDAM to everyone you know, just launched, the community is rising fast & will be overtaking the anime space soon!
-📊Chart: dexscreener.com/ethereum/0xD4d4634406Aa2dF9B747b3d27AB2EFaD6d418f38
-🌐TG: t.me/gundaminutoken
+  `Don't forget to spread the word about 🤖 $GUNDAM 🤖 to everyone you know, just launched, the community is rising fast & will be overtaking the anime space soon!
+
+📊: dexscreener.com/ethereum/0xD4d4634406Aa2dF9B747b3d27AB2EFaD6d418f38
+💻: gundaminu.xyz
+🚀: t.me/gundaminutoken
   `,
 
  "@" + influencers[Math.floor(Math.random()*influencers.length)] + " bro, you know when you see something & you know it's going to be EPIC! YOU GOTTA SHARE IT WITH THE WORLD! I see $GUNDAM, and I get it! They're on the way to the moon & beyond. t.me/gundaminutoken"
