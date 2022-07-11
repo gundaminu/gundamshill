@@ -156,13 +156,13 @@ shill_messages.forEach(function(shill_msg, i){
 
 //alert(typeof(getMultipleRandom(hashtags, 3)));
 
-part_html = '<div id="shill' + i + '"><pre style="white-space: pre-wrap;">' + shill_msg + ' ' + textGetRandomHashtags(hashtags, 4) + '</pre></div>';
+part_html = '<div id="shill' + i + '"><pre style="white-space: pre-wrap;">' + shill_msg + ' ' + textGetRandomHashtags(hashtags, 3) + '</pre></div>';
 part_html += '<p><input type="button" class="copy-text btn" data-clipboard-target="#shill' + i + '" value="Copy" />';
 if (hashTID) {
-    part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 4) + '&in_reply_to=' + hashTID + '">Reply this</a></p>';
+    part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 3) + '&in_reply_to=' + hashTID + '">Reply this</a></p>';
 }
 else{
-    part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 4) + '&in_reply_to=' + hashTID + '">Tweet this</a></p>';
+    part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 3) + '&in_reply_to=' + hashTID + '">Tweet this</a></p>';
 }
 
 document.getElementById("maindiv").innerHTML += part_html;
